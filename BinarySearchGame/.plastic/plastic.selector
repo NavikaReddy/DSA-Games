@@ -1,0 +1,4 @@
+repository "BinarySearchGame@navika@cloud"
+  path "/"
+    br "/main"
+    co "/main"
