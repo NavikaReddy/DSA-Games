@@ -53,7 +53,7 @@ public class GameControlLevel3 : MonoBehaviour
             }
             else
             {
-                dialogueBox.ShowDialogue("Search on", DestroyRight, DestroyLeft);
+                dialogueBox.ShowDialogue("Search", DestroyRight, DestroyLeft);
             }
         }
         else

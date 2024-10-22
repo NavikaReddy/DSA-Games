@@ -50,7 +50,7 @@ public class GameControl : MonoBehaviour
             }
             else
             {
-                dialogueBox.ShowDialogue("Search on", DestroyRight, DestroyLeft);
+                dialogueBox.ShowDialogue("Search", DestroyRight, DestroyLeft);
             }
 
         }
